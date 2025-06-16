@@ -1,0 +1,75 @@
+Here’s a **1500-word sample text** related to the **Mahabharata**, suitable for your RAG (Retrieval-Augmented Generation) project. You can save this as `sample.txt` in your `./docs/` directory.
+
+---
+
+# **The Mahabharata: An Epic of Dharma, War, and Wisdom**  
+
+## **Introduction**  
+The **Mahabharata**, one of the greatest epics of ancient India, is a monumental narrative of **dharma (duty), conflict, and divine philosophy**. Composed by the sage **Vyasa**, it consists of over **100,000 verses**, making it one of the longest literary works in history. The central conflict revolves around the **Kurukshetra War** between two branches of the Kuru dynasty—the **Pandavas** (righteous) and the **Kauravas** (adversarial). Beyond its gripping storyline, the Mahabharata serves as a **philosophical and ethical guide**, containing teachings such as the **Bhagavad Gita**, where Lord Krishna imparts wisdom to Arjuna.  
+
+## **The Origins of the Mahabharata**  
+The Mahabharata begins with the story of **King Shantanu** of Hastinapura, who marries **Ganga** and later **Satyavati**. His descendants include:  
+- **Bhishma**, his son from Ganga, who takes a vow of celibacy to ensure his father’s happiness.  
+- **Vichitravirya**, his son from Satyavati, who dies childless, leading to the birth of **Dhritarashtra** (blind), **Pandu** (pale), and **Vidura** (wise but born to a maid).  
+
+Pandu becomes king but is cursed to die if he engages in intercourse. His wives, **Kunti** and **Madri**, use divine boons to bear children:  
+- **Yudhishthira** (son of Dharma)  
+- **Bhima** (son of Vayu)  
+- **Arjuna** (son of Indra)  
+- **Nakula & Sahadeva** (sons of the Ashwini Kumaras)  
+
+Meanwhile, Dhritarashtra’s wife, **Gandhari**, gives birth to **100 sons**, the eldest being **Duryodhana**, who grows up envious of the Pandavas.  
+
+## **The Conflict Begins**  
+After Pandu’s death, the Pandavas and Kauravas are raised together in **Hastinapura**, but tensions arise due to Duryodhana’s hatred. Key incidents escalate the conflict:  
+1. **Training Under Drona**: Both princes learn warfare, but Arjuna emerges as the greatest archer.  
+2. **The Lacquer House Plot**: Duryodhana tries to burn the Pandavas alive, but they escape.  
+3. **Draupadi’s Swayamvara**: Arjuna wins **Draupadi** as his bride, but she becomes the wife of all five Pandavas due to Kunti’s misunderstanding.  
+4. **Indraprastha and the Dice Game**: The Pandavas build a glorious kingdom, but Duryodhana tricks Yudhishthira into a rigged dice game. The Pandavas lose everything, including Draupadi, who is humiliated in court.  
+
+## **Exile and Preparation for War**  
+The Pandavas are exiled for **13 years**, during which they:  
+- Face hardships in the forest.  
+- **Arjuna acquires divine weapons** from the gods.  
+- **Krishna becomes their guide and friend**.  
+
+When they return, Duryodhana refuses to return their kingdom, leading to the inevitable **Kurukshetra War**.  
+
+## **The Bhagavad Gita: Krishna’s Teachings to Arjuna**  
+On the battlefield, **Arjuna hesitates**, unwilling to fight his own kin. **Lord Krishna**, serving as his charioteer, delivers the **Bhagavad Gita**, a 700-verse discourse on **duty, righteousness, and devotion**. Key teachings include:  
+- **Karma Yoga**: Perform duty without attachment to results.  
+- **Dharma**: Uphold righteousness, even in war.  
+- **The Eternal Soul**: The soul is indestructible; only the body perishes.  
+
+## **The Great War of Kurukshetra**  
+The war lasts **18 days**, with massive destruction. Key events:  
+1. **Bhishma’s Fall**: The grandsire fights for the Kauravas but is wounded by Arjuna.  
+2. **Drona’s Death**: Tricked into believing his son Ashwatthama is dead, he lays down his arms and is killed.  
+3. **Karna’s Tragic End**: The noble but cursed warrior is slain by Arjuna.  
+4. **Duryodhana’s Defeat**: Bhima breaks his thigh in a mace duel, fulfilling an old vow.  
+
+## **Aftermath and Lessons**  
+The Pandavas win but at a great cost—almost the entire Kuru dynasty is wiped out. **Yudhishthira becomes king**, but the war’s devastation haunts him. The epic concludes with:  
+- **The Ashwamedha Yagna** to establish peace.  
+- **The Pandavas’ final journey** to the Himalayas, where they renounce the world.  
+
+## **Philosophical Significance**  
+The Mahabharata is not just a story but a **guide to life**, exploring:  
+- **Moral dilemmas** (Was the war justified?)  
+- **Loyalty vs. Duty** (Karna’s struggle)  
+- **The consequences of greed and ego** (Duryodhana’s downfall)  
+
+## **Conclusion**  
+The Mahabharata remains relevant today, offering **timeless wisdom on leadership, ethics, and human nature**. Its characters—**Arjuna’s skill, Bhima’s strength, Yudhishthira’s righteousness, and Krishna’s divine counsel**—continue to inspire millions.  
+
+---
+
+### **How to Use This Text in Your RAG System**  
+1. Save this as `sample.txt` in your `./docs/` folder.  
+2. Run your script—now it will have a rich text to query!  
+3. Example questions you can ask:  
+   - *"What is the Bhagavad Gita about?"*  
+   - *"Why did the Kurukshetra war happen?"*  
+   - *"Who were the main characters in the Mahabharata?"*  
+
+Would you like any modifications or additional sections?

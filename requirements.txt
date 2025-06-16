@@ -1,0 +1,26 @@
+# Core dependencies for Python OpenAI RAG application
+
+# Environment and configuration
+python-dotenv==1.0.1
+
+# LangChain ecosystem
+langchain==0.3.25
+langchain-core==0.3.64
+langchain-openai==0.3.19
+langchain-text-splitters==0.3.8
+langchain-community
+
+# OpenAI
+openai==1.84.0
+
+# Vector database
+chromadb
+
+# Monitoring and tracing
+langsmith==0.3.45
+
+# Additional utilities that might be needed
+numpy
+requests
+tiktoken==0.7.0
+
