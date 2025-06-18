@@ -9,6 +9,7 @@ langchain-core==0.3.64
 langchain-openai==0.3.19
 langchain-text-splitters==0.3.8
 langchain-community
+langchain-pinecone
 
 # OpenAI
 openai==1.84.0
@@ -23,4 +24,5 @@ langsmith==0.3.45
 numpy
 requests
 tiktoken==0.7.0
+colorama==0.1.5
 
